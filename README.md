@@ -3,4 +3,6 @@ This Python notebook includes the code to generate all figures and info in table
 
 This is all my original code, with the exception of some parts in the 'Plotting PALEO Simulation Outputs' section, which were borrowed from Jake Eager-Nash.
 
+The paper can be found here: https://iopscience.iop.org/article/10.3847/1538-4357/adac5d
+
 -- Kendall Sippy 3/4/25
